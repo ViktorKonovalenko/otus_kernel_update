@@ -6,7 +6,6 @@
 3) Подключаемся по ssh к ВМ
 <pre>vagrant ssh</pre>
 4) Проверяем версию ядра
-<pre>
 <pre>[root@kernel-uptade vagrant]# uname -r
 4.18.0-516.el8.x86_64
 </pre>
